@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u <username> <betty>
+sudo -u betty
