@@ -1,0 +1,2 @@
+#!/bin/bash
+chown adlib-adm:group hello
