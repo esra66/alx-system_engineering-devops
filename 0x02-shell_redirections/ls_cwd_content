@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 3 esra66 esra66 4096 Aug  7 23:43 .
+drwxr-xr-x 6 esra66 esra66 4096 Aug  7 22:31 ..
+-rwxr--r-- 1 esra66 esra66   30 Aug  7 22:42 0-hello_world
+-rwxr--r-- 1 esra66 esra66   28 Aug  7 22:49 1-confused_smiley
+-rwxr--r-- 1 esra66 esra66   28 Aug  7 23:00 2-hellofile
+-rwxr--r-- 1 esra66 esra66   39 Aug  7 23:11 3-twofiles
+-rwxr--r-- 1 esra66 esra66   33 Aug  7 23:13 4-lastlines
+-rwxr--r-- 1 esra66 esra66   33 Aug  7 23:15 5-firstlines
+-rwxr--r-- 1 esra66 esra66   50 Aug  7 23:30 6-third_line
+-rwxr--r-- 1 esra66 esra66   97 Aug  7 23:38 7-file
+-rwxr--r-- 1 esra66 esra66   36 Aug  7 23:42 8-cwd_state
+-rw-r--r-- 1 esra66 esra66   16 Aug  7 22:33 README.md
+drwxr-xr-x 2 esra66 esra66 4096 Aug  7 23:24 iacta
+-rw-r--r-- 1 esra66 esra66    0 Aug  7 23:43 ls_cwd_content
